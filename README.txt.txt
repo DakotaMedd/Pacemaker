@@ -1,0 +1,2 @@
+This is an alternate distribution of the sirwolfgang\Pacemaker project, which was authored by SirWolfgang, DakotaMedd, GJBianco. Has a simplier interface, but the game is in 2D.
+To play, just download and run. When you reach the end, the game will restart. Just close out and open again to generate a new session.
